@@ -1,0 +1,12 @@
+C:\Users\Vakilsearch\source\repos\EmployeeServices\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll.config
+C:\Users\Vakilsearch\source\repos\EmployeeServices\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll
+C:\Users\Vakilsearch\source\repos\EmployeeServices\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.pdb
+C:\Users\Vakilsearch\source\repos\EmployeeServices\EmployeeDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Vakilsearch\source\repos\EmployeeServices\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vakilsearch\source\repos\EmployeeServices\EmployeeDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Vakilsearch\source\repos\EmployeeServices\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vakilsearch\source\repos\EmployeeServices\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj.AssemblyReference.cache
+C:\Users\Vakilsearch\source\repos\EmployeeServices\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Vakilsearch\source\repos\EmployeeServices\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj.CopyComplete
+C:\Users\Vakilsearch\source\repos\EmployeeServices\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.dll
+C:\Users\Vakilsearch\source\repos\EmployeeServices\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.pdb
